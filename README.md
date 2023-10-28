@@ -1,2 +1,2 @@
-# SolanaAirdropscript
+# Token Airdrop Script
 walletAddress
