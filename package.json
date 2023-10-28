@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@solana/web3.js": "^1.87.2",
-    "@solana/spl-token"
+    "@solana/spl-token":"^0.3.8"
   }
 }
